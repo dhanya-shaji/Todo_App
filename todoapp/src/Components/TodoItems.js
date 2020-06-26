@@ -27,6 +27,7 @@ TodoItems.propTypes={
 Todos:PropTypes.array.isRequired,
 markComplete:PropTypes.func.isRequired,
 delTodos:PropTypes.func.isRequired,
+Addtodo:PropTypes.func.isRequired,
 }
 
 const ButtonStyle={
